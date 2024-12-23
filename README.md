@@ -1,5 +1,5 @@
 # Processamento Digital de Imagens
-Este repositório contém projetos e exemplos de código relacionados ao processamento digital de imagens.
+Este repositório reúne códigos relacionados à disciplina de Processamento Digital de Imagens.
 
 ## Conteúdo
 
